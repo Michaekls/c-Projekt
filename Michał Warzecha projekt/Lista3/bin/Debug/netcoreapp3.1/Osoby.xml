@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Id>0</Id>
+    <Imie>Michal</Imie>
+    <Nazwisko>wA</Nazwisko>
+    <Pesel>14725836920</Pesel>
+    <Miasto>Opole</Miasto>
+    <Wiek>25</Wiek>
+  </Person>
+  <Person>
+    <Id>1</Id>
+    <Imie>Mateusz</Imie>
+    <Nazwisko>ALA</Nazwisko>
+    <Pesel>12345678900</Pesel>
+    <Miasto>Wroclaw</Miasto>
+    <Wiek>75</Wiek>
+  </Person>
+</ArrayOfPerson>
